@@ -7,4 +7,4 @@ It checks the temperature every 5 seconds, and will wait for 5 minutes to alert 
 
 Move it to Application folder, for easy access. It's also useful to add into System Preferences --> Users & Groups --> Login Items, to run it after login.
 
-For now, it's depending on User and Password to get privileges to check CPU Temperature. That's all for now. Enjoy!
+For now, it's depending on User and Password to get privileges and check CPU Temperature. That's all for now. Enjoy!
