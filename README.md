@@ -19,4 +19,4 @@ Download the latest release. Unzip it and move the app to the application folder
 
 Requirements
 
-Stats currently supported on macOS 10.14 (Mojave) and higher.
+Currently running on macOS 10.15.6 (Catalina)
