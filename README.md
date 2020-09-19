@@ -1,6 +1,6 @@
 # CPUtempAlert
 
-<p align="center"><img src="https://github.com/fm6000/CPUtempAlert/blob/master/Screenshots/ScreenShot2020-09-19.png"></p></a>
+<p align="center"><img src="https://github.com/fm6000/CPUtempAlert/blob/master/Screenshots/ScreenShot2020-09-19.png"></p>
 
 macOS CPU temperature monitor in background
 
