@@ -9,6 +9,7 @@ Move it to Application folder, for easy access. It's also useful to add into Sys
 
 For now, it's depending on User and Password to get privileges and check CPU Temperature. That's all for now. Enjoy!
 
+.
 
 Installation
 
