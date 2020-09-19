@@ -1,5 +1,5 @@
 # CPUtempAlert
-Simple AppleScript MON that will alert when CPU temperature is high
+A simple AppleScript MON that will alert when CPU temperature is high
 
 For those of you who hate see your MacThing overheating, this script will keep running and alerting when temperature is higher than temperature informed.
 
