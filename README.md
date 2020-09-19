@@ -1,32 +1,24 @@
 # CPUtempAlert
-A simple AppleScript Monitor that will alert when CPU temperature is high
 
-For those of you who hate see your MacThing overheating, this script will keep running and alerting when temperature is higher than temperature informed.
+<p align="center"><img src="https://github.com/fm6000/CPUtempAlert/blob/master/Screenshots/ScreenShot2020-09-19.png" width="120"></p></a>
 
-It checks the temperature every 5 seconds, and will wait for 5 minutes to alert again when alert is triggered.
+macOS CPU temperature monitor in background
 
-Move it to Application folder, for easy access. It's also useful to add into System Preferences --> Users & Groups --> Login Items, to run it after login.
+## Installation
+### Manually
+You can download the latest version [here](https://github.com/fm6000/CPUtempAlert/releases/).
+Download the file called `CPUtempAlert.zip`. Unzip it and move the app to the application folder. It's also useful to add into System Preferences --> Users & Groups --> Login Items, to run it right after login.
 
-For now, it's depending on User and Password to get privileges and check CPU Temperature. That's all for now. Enjoy!
+## Requirements
+CPUtempAlert currently supported on macOS 10.15 (Catalina) and higher.
 
-.
+## Features
+CPUtempAlert is an application that alert you when macOS CPU temperature reach high temperatures
 
+## Supporting languages
+- English
 
+You can help by adding a new language.
 
-.
-
-Installation
-
-Download the latest release. Unzip it and move the app to the application folder.
-
-.
-
-Requirements
-
-Currently running on macOS 10.15.6 (Catalina)
-
-.
-
-Supporting languages
-
-English
+## License
+[GNU License](https://github.com/fm6000/CPUtempAlert/blob/master/LICENSE)
