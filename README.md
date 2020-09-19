@@ -11,6 +11,10 @@ For now, it's depending on User and Password to get privileges and check CPU Tem
 
 .
 
+
+
+.
+
 Installation
 
 Download the latest release. Unzip it and move the app to the application folder.
